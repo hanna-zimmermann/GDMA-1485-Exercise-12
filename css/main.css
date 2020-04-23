@@ -42,7 +42,7 @@
 -------------------------------------------------------------- */
 
 
-*html {
+* html {
 	font-size: 1rem;
 	font-family:'Baloo Paaji 2 10px', cursive;
 }
@@ -62,7 +62,7 @@ h1 {
 
 h2 {
 	font-size: .75rem; /*7.5px*/
-	marggin-bottom: 1em; /*7.5px*/
+	margin-bottom: 1em; /*7.5px*/
 }
 
 h3 {
@@ -138,8 +138,7 @@ h3 {
 #middle-img {
 	background-color: #FD99A2;
 	height: 400px;
-	margin-top: 50px;
-	marign-bottom: 50px;
+	margin-bottom: 50px;
 }
 
 #top-side-img, #bottom-side-img {
@@ -149,7 +148,7 @@ h3 {
 	
 }
 
-#top-side-img, p, #right-side-img{
+#top-side-img, p, #right-side-img, #middle-img{
 	margin-top: 50px;
 }
 
